@@ -74,6 +74,22 @@ As this HRMS is built using OutSystems and cannot be directly published or distr
 
 4. **Test and Deploy Internally:** Once customized, thoroughly test the HRMS within your organization to ensure it meets the desired objectives. Deploy the system internally for use by HR personnel, managers, and employees.
 
+## Images
+
+<img width="950" alt="Dashboard" src="https://github.com/premganwani619/human-resource-management-systemnt-system/assets/83330321/97c24d2f-cb67-498d-96c4-4e96564b6032">
+
+<img width="949" alt="Attendance" src="https://github.com/premganwani619/human-resource-management-systemnt-system/assets/83330321/02a1a155-6013-4d67-8588-e9cec638f090">
+
+<img width="944" alt="AttendanceRequest" src="https://github.com/premganwani619/human-resource-management-systemnt-system/assets/83330321/8d63feb6-a063-4c4e-8c4d-20b3cd3621c7">
+
+<img width="947" alt="LeaveRequest" src="https://github.com/premganwani619/human-resource-management-systemnt-system/assets/83330321/2685fae2-8aea-4caa-b3ee-69df7c24949a">
+
+<img width="952" alt="AllHolidays" src="https://github.com/premganwani619/human-resource-management-systemnt-system/assets/83330321/f470f702-edab-4228-8d90-a00df8f109e7">
+
+<img width="947" alt="MyTeamList" src="https://github.com/premganwani619/human-resource-management-systemnt-system/assets/83330321/d9917939-789c-493d-a69e-16eb6e9db9c3">
+
+<img width="947" alt="ViewEditAndSeeEmployeeAttendance" src="https://github.com/premganwani619/human-resource-management-systemnt-system/assets/83330321/5a900e89-9598-49b7-b693-8759e3e76af1">
+
 ## Support
 For any questions or assistance in customizing and implementing an HRMS for your organization, please contact Prem Ganwani at [premsoni0474i@gmail.com](mailto:premsoni0474i@email.com).
 
