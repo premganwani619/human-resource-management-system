@@ -93,3 +93,6 @@ As this HRMS is built using OutSystems and cannot be directly published or distr
 ## Support
 For any questions or assistance in customizing and implementing an HRMS for your organization, please contact Prem Ganwani at [premsoni0474i@gmail.com](mailto:premsoni0474i@email.com).
 
+### Login Credentials
+- **Username:** HR
+- **Password:** HRPassword
