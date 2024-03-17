@@ -91,10 +91,6 @@ As this HRMS is built using OutSystems and cannot be directly published or distr
 <img width="947" alt="ViewEditAndSeeEmployeeAttendance" src="https://github.com/premganwani619/human-resource-management-systemnt-system/assets/83330321/5a900e89-9598-49b7-b693-8759e3e76af1">
 
 ## Support
-For any questions or assistance in customizing and implementing an HRMS for your organization, please contact Prem Ganwani at [premsoni0474i@gmail.com](mailto:premsoni0474i@email.com).
+For any questions or assistance in customizing and implementing an HRMS for your organization, please contact Prem Ganwani at [premsoni0474@gmail.com](mailto:premsoni0474@email.com).
 
 [Link to HRMS Project](https://personal-amlkd3oh.outsystemscloud.com/Welcome/Welcome)
-
-### Login Credentials
-- **Username:** HR
-- **Password:** HRPassword
